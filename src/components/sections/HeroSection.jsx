@@ -14,7 +14,7 @@ export const HeroSection = () => {
       </div>
 
       <div className='relative mt-[40px] bg-white   w-[290px] h-[290px] shadow-[0_0_20px_rgba(0,0,0,0.15)] rounded-full hover:border-2 border-amber-300'>
-        <img className='absolute inset-0 m-auto' src="/public/profile.jpeg" alt="" height={200} width={200} />
+        <img className='absolute inset-0 m-auto' src="/profile.jpeg" alt="" height={200} width={200} />
       </div>
 
     </div>

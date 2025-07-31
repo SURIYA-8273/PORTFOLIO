@@ -4,59 +4,59 @@ const SkillSection = () => {
 
     const skills = [
         {
-            image: "/public/java.svg"
+            image: "/java.svg"
             , title: "JAVA"
         },
         {
-            image: "/public/python.svg"
+            image: "/python.svg"
             , title: "PYTHON"
         },
         {
-            image: "/public/html5.svg"
+            image: "/html5.svg"
             , title: "HTML"
         },
         {
-            image: "/public/css.svg"
+            image: "/css.svg"
             , title: "CSS"
         }, {
-            image: "/public/tailwindcss.svg"
+            image: "/tailwindcss.svg"
             , title: "TAILWIND"
         },  {
-            image: "/public/react.svg"
+            image: "/react.svg"
             , title: "REACT JS"
         }, {
-            image: "/public/nextdotjs.svg"
+            image: "/nextdotjs.svg"
             , title: "NEXT JS"
         }, {
-            image: "/public/nodedotjs.svg"
+            image: "/nodedotjs.svg"
             , title: "NODE JS"
         }, {
-            image: "/public/express.svg"
+            image: "/express.svg"
             , title: "EXPRESS"
         }, {
-            image: "/public/mongodb.svg"
+            image: "/mongodb.svg"
             , title: "MONGO DB"
         }, {
-            image: "/public/mysql.svg"
+            image: "/mysql.svg"
             , title: "MYSQL"
         }, {
-            image: "/public/firebase.svg"
+            image: "/firebase.svg"
             , title: "FIREBASE"
         }, {
-            image: "/public/dart.svg"
+            image: "/dart.svg"
             , title: "DART"
         }, {
-            image: "/public/flutter.svg"
+            image: "/flutter.svg"
             , title: "FLUTTER"
         }, {
-            image: "/public/spring.svg"
+            image: "/spring.svg"
             , title: "SPRING BOOT"
         },
         {
-            image: "/public/javascript.svg"
+            image: "/javascript.svg"
             , title: "JAVA SCRIPT"
         }, {
-            image: "/public/typescript.svg"
+            image: "/typescript.svg"
             , title: "TYPESCRIPT"
         },
 

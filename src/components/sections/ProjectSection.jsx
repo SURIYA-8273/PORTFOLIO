@@ -5,52 +5,52 @@ const ProjectSection = () => {
     const projects= [
   {
     title: "E-Commerce App (MERN)",
-    image: "/public/poster.jpeg",
+    image: "/poster.jpeg",
     description: "A full-stack e-commerce platform with product listing, cart, payment gateway, and admin panel using MERN stack.",
   },
   {
     title: "Event Management System",
-    image: "/public/poster.jpeg",
+    image: "/poster.jpeg",
     description: "A system for users to browse and book events, and for organizers to create and manage them using Flutter and Node.js.",
   },
   {
     title: "Real-time Chat App",
-    image: "/public/poster.jpeg",
+    image: "/poster.jpeg",
     description: "Chat application with user authentication, real-time messaging, and room-based chats built with React and Socket.io.",
   },
   {
     title: "Portfolio Website",
-    image: "/public/poster.jpeg",
+    image: "/poster.jpeg",
     description: "Personal portfolio website to showcase projects, skills, and resume using React and Tailwind CSS.",
   },
   {
     title: "Online Quiz App",
-    image: "/public/poster.jpeg",
+    image: "/poster.jpeg",
     description: "Flutter-based quiz application with multiple-choice questions, timer, scoring, and result tracking.",
   },
   {
     title: "Weather Forecast App",
-    image: "/public/poster.jpeg",
+    image: "/poster.jpeg",
     description: "Weather app using OpenWeather API and React.js to provide current conditions and 5-day forecasts.",
   },
   {
     title: "Admin Dashboard",
-    image: "/public/poster.jpeg",
+    image: "/poster.jpeg",
     description: "Dashboard with analytics, charts, user management, and role-based authentication built using React and Node.js.",
   },
   {
     title: "Blog CMS",
-    image: "/public/poster.jpeg",
+    image: "/poster.jpeg",
     description: "Content Management System for creating, editing, and deleting blog posts using MongoDB, Express, and EJS.",
   },
   {
     title: "Furniture Store Website",
-    image: "/public/poster.jpeg",
+    image: "/poster.jpeg",
     description: "Responsive furniture shop website with search, filters, and order management using Next.js and MySQL.",
   },
   {
     title: "To-Do App with Firebase",
-    image: "/public/poster.jpeg",
+    image: "/poster.jpeg",
     description: "Task management app with authentication, deadline reminders, and real-time sync using Firebase and React.",
   },
 ];
