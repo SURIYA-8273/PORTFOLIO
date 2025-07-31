@@ -4,7 +4,7 @@ import { IoClose } from "react-icons/io5";
 const Header = () => {
 
     const navItems = [
-        { label: "HERO", link: "#hero" },
+        { label: "HOME", link: "#hero" },
         { label: "ABOUT", link: "#about" },
         { label: "CONTACT", link: "#contact" },
         { label: "PROJECTS", link: "#projects" },
@@ -12,8 +12,8 @@ const Header = () => {
     ];
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     return (
-        <div className=''>
-            <div className='flex justify-between px-6 py-2'>
+        <div className='fixed top-0 left-0 right-0 z-20'>
+            <div className='flex justify-between px-6 py-2 bg-white'>
                 <h1 className='text-xl font-bold'>PORTFOLIO</h1>
 
                 {
