@@ -14,7 +14,7 @@ const Header = () => {
     return (
         <div className='fixed top-0 left-0 right-0 z-20'>
             <div className='flex justify-between px-6 py-2 bg-white'>
-                <h1 className='text-xl font-bold'>PORTFOLIO</h1>
+                <h1 className='text-xl font-bold'>SS PORTFOLIO</h1>
 
                 {
                     isMenuOpen ? <IoClose size={25} onClick={() => setIsMenuOpen(!isMenuOpen)} /> : <IoMenu size={25} onClick={() => setIsMenuOpen(!isMenuOpen)} />
